@@ -1,7 +1,7 @@
 # About
 
-Assistant Professor of Mathematics & Statistics at California State University, Sacramento.
+Doctoral candidate in Applied Statistics at the University of California Riverside. 
 
 ## Contact
 
-cappiello@csus.edu
+rkurt001@ucr.edu 
